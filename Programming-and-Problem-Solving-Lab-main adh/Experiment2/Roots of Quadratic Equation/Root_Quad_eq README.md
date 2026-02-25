@@ -35,8 +35,7 @@ Write a program to find the roots of a quadratic equation, given its coefficient
 
 ## Execution
 <p align="center">
-  <img src="
-Roots_quad_eq exe.png" width="900">
+  <img src="Roots_quad_eq exe.png" width="900">
 </p>
 
 
