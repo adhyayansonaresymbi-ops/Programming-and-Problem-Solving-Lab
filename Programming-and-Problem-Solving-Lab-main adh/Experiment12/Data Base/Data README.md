@@ -31,7 +31,7 @@ phone.drawio.png)
 
 ## Execution
 <p align="center">
-  <img src="Phone Number.png" width="900">
+  <img src="phone.png" width="900">
 </p>
 
 
